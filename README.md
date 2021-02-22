@@ -1,2 +1,2 @@
 # RoomRetrofitMVVM architecture
-Room + Retrofit + MVVM
+Room + Retrofit + MVVM libraries
